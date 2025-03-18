@@ -51,7 +51,7 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nguyenmanhcuong-ai&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=nguyenmanhcuong-ai&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Dự Án Nổi Bật
