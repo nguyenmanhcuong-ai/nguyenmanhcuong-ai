@@ -48,12 +48,6 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenmanhcuong-ai&layout=compact&theme=tokyonight" />
 </div>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=nguyenmanhcuong-ai&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🌐 Dự Án Nổi Bật
 
 ### [Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/sentiment-analysis-bert)
