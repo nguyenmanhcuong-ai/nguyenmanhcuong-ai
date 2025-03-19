@@ -11,7 +11,7 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJheXY4M3AzZXI5NTVyeGZoZ2lhdzdkdjZtMW5ubWgzNmwwZGF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fharvard-brain-neuron-9N2UvCx7wXLnG&psig=AOvVaw3UuT_2eG63bleAVpnK2QFy&ust=1742493565860000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi_s8LclowDFQAAAAAdAAAAABBA" width="45%" />
+  <img src="https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif" width="45%" />
 </div>
 
 ## 🛠️ Công Nghệ & Kỹ Năng
