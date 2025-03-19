@@ -71,17 +71,17 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 
 ## 🌐 Dự Án Nổi Bật
 
-### [🔤 Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/sentiment-analysis-bert)
+### [🔤 Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/machine_translation.git)
 Hệ thống dịch máy từ tiếng Anh sang tiếng Việt sử dụng kiến trúc Transformer với độ chính xác tương đối cao, BLEU score 0.51.
 - **Công nghệ:** PyTorch, Transformers, Hugging Face, BLEU metrics
 - **Tính năng:** Fine-tuning mô hình pre-trained, xử lý dữ liệu song ngữ, đánh giá độ chính xác
 
-### [❓ Hỏi đáp luật giao thông Việt Nam dùng kỹ thuật học tăng cường RAG](https://github.com/nguyenmanhcuong-ai/real-time-object-detection)
+### [❓ Hỏi đáp luật giao thông Việt Nam dùng kỹ thuật học tăng cường RAG](https://github.com/nguyenmanhcuong-ai/ragchatbox.git)
 Hệ thống hỏi đáp thông minh về luật giao thông Việt Nam sử dụng kiến trúc RAG (Retrieval-Augmented Generation) và triển khai trên Streamlit.
 - **Công nghệ:** LangChain, FAISS, Streamlit, Hugging Face Embeddings
 - **Tính năng:** Tìm kiếm ngữ nghĩa, tạo câu trả lời với thông tin chính xác từ nguồn đáng tin cậy
 
-### [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/vietnamese-nlp)
+### [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
 Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/đăng xuất, thông báo tin tức qua email, điểm danh, đóng học phí, nộp bài, thi trắc nghiệm và hơn thế nữa.
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
@@ -97,8 +97,8 @@ Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/�
 [![Email](https://img.shields.io/badge/Email-nguyenmanhcuong.itech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenmanhcuong.itech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nguyenmanhcuong--ai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenmanhcuong-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-nguyenmanhcuong--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenmanhcuong-ai)
-[![YouTube](https://img.shields.io/badge/YouTube-NguyenManhCuongAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/NguyenManhCuongAI)
-[![Facebook](https://img.shields.io/badge/Facebook-nguyenmanhcuong.ai-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyenmanhcuong.ai)
+[![YouTube](https://img.shields.io/badge/YouTube-NguyenManhCuongAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CuongNguyen-in5rz)
+[![Facebook](https://img.shields.io/badge/Facebook-nguyenmanhcuong.ai-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/09nmc)
   
 </div>
 
