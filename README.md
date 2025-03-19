@@ -71,6 +71,11 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 
 ## 🌐 Dự Án Nổi Bật
 
+### [🩺 Hệ thống chẩn đoán viêm phổi dùng AI với YOLO và Deep Learning](https://github.com/nguyenmanhcuong-ai/Diagnosis_of_pneumonia.git)
+Hệ thống AI hỗ trợ chẩn đoán viêm phổi từ ảnh X-quang phổi, sử dụng YOLO để phát hiện vùng tổn thương và các mô hình học sâu để phân loại bệnh lý.
+- **Công nghệ:** PyTorch, YOLOv5, ResNet50, DenseNet121, Gradio, OpenCV
+- **Tính năng:** Phát hiện vùng tổn thương, phân loại NORMAL/PNEUMONIA, giao diện người dùng thân thiện để tải và phân tích ảnh
+
 ### [🔤 Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/machine_translation.git)
 Hệ thống dịch máy từ tiếng Anh sang tiếng Việt sử dụng kiến trúc Transformer với độ chính xác tương đối cao, BLEU score 0.51.
 - **Công nghệ:** PyTorch, Transformers, Hugging Face, BLEU metrics
@@ -89,6 +94,15 @@ Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/�
 ## 📝 Bài Viết & Blog
 
 ## 🎥 Video Tutorials
+Dưới đây là các video liên quan đến lĩnh vực CNTT:
+1. **[CNN - Convolutional Neural Networks in Image Recognition - Part 1](https://www.youtube.com/watch?v=hFJKUkn-TQE)**  
+   - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
+  
+2. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
+   - Internet là gì? Network Edge, Network Core, Performance, ...
+  
+3. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
+   - Vai trò, tầm quan trọng và phương thức giao tiếp của mạng IPv6.
 
 ## 📫 Liên Hệ
 
