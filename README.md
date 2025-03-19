@@ -9,8 +9,9 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 - 🌱 Không ngừng khám phá và ứng dụng AI vào giải quyết các vấn đề thực tế
 - 🚀 Hướng đến mục tiêu trở thành chuyên gia trong lĩnh vực AI và ML Engineering
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJheXY4M3AzZXI5NTVyeGZoZ2lhdzdkdjZtMW5ubWgzNmwwZGF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJheXY4M3AzZXI5NTVyeGZoZ2lhdzdkdjZtMW5ubWgzNmwwZGF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/3o7bu8sRnYp0yx7AAC/giphy.gif" width="45%" />
 </div>
 
 ## 🛠️ Công Nghệ & Kỹ Năng
