@@ -72,22 +72,27 @@ Xin chào! Tôi là **Nguyễn Mạnh Cường**, sinh viên tại Đại học 
 
 ## 🌐 Dự Án Nổi Bật
 
-### [🩺 Hệ thống chẩn đoán viêm phổi dùng AI với YOLO và Deep Learning](https://github.com/nguyenmanhcuong-ai/Diagnosis_of_pneumonia.git)
+### 1. [🩺 Hệ thống chẩn đoán viêm phổi dùng AI với YOLO và Deep Learning](https://github.com/nguyenmanhcuong-ai/Diagnosis_of_pneumonia.git)
 Hệ thống AI hỗ trợ chẩn đoán viêm phổi từ ảnh X-quang phổi, sử dụng YOLO để phát hiện vùng tổn thương và các mô hình học sâu để phân loại bệnh lý.
 - **Công nghệ:** PyTorch, YOLOv5, ResNet50, DenseNet121, Gradio, OpenCV
 - **Tính năng:** Phát hiện vùng tổn thương, phân loại NORMAL/PNEUMONIA, giao diện người dùng thân thiện để tải và phân tích ảnh
 
-### [🔤 Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/machine_translation.git)
+### 2. [🔤 Dịch máy từ tiếng Anh sang tiếng Việt](https://github.com/nguyenmanhcuong-ai/machine_translation.git)
 Hệ thống dịch máy từ tiếng Anh sang tiếng Việt sử dụng kiến trúc Transformer với độ chính xác tương đối cao, BLEU score 0.51.
 - **Công nghệ:** PyTorch, Transformers, Hugging Face, BLEU metrics
 - **Tính năng:** Fine-tuning mô hình pre-trained, xử lý dữ liệu song ngữ, đánh giá độ chính xác
 
-### [❓ Hỏi đáp luật giao thông Việt Nam dùng kỹ thuật học tăng cường RAG](https://github.com/nguyenmanhcuong-ai/ragchatbox.git)
+### 3. [❓ Hỏi đáp luật giao thông Việt Nam dùng kỹ thuật học tăng cường RAG](https://github.com/nguyenmanhcuong-ai/ragchatbox.git)
 Hệ thống hỏi đáp thông minh về luật giao thông Việt Nam sử dụng kiến trúc RAG (Retrieval-Augmented Generation) và triển khai trên Streamlit.
 - **Công nghệ:** LangChain, FAISS, Streamlit, Hugging Face Embeddings
 - **Tính năng:** Tìm kiếm ngữ nghĩa, tạo câu trả lời với thông tin chính xác từ nguồn đáng tin cậy
 
-### [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
+### 4. [🖼️ Hệ thống tạo chú thích hình ảnh dùng AI (Image Captioning)](https://github.com/nguyenmanhcuong-ai/image_captioning.git)
+Hệ thống tự động tạo chú thích cho hình ảnh sử dụng mô hình học sâu với kiến trúc Encoder-Decoder kết hợp Attention, triển khai trên Flask và Google Colab.  
+- **Công nghệ:** PyTorch, ResNet50, LSTM, Attention Mechanism, Flask, Ngrok  
+- **Tính năng:** Tạo chú thích tự động từ hình ảnh, giao diện web để tải ảnh và xem kết quả, triển khai trực tuyến qua Colab
+  
+### 5. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
 Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/đăng xuất, thông báo tin tức qua email, điểm danh, đóng học phí, nộp bài, thi trắc nghiệm và hơn thế nữa.
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
