@@ -87,12 +87,17 @@ Hệ thống hỏi đáp thông minh về luật giao thông Việt Nam sử d�
 - **Công nghệ:** LangChain, FAISS, Streamlit, Hugging Face Embeddings
 - **Tính năng:** Tìm kiếm ngữ nghĩa, tạo câu trả lời với thông tin chính xác từ nguồn đáng tin cậy
 
-### 4. [🖼️ Hệ thống tạo chú thích hình ảnh dùng AI (Image Captioning)](https://github.com/nguyenmanhcuong-ai/image_captioning.git)
+### 4. [👤 Hệ thống nhận diện khuôn mặt dùng webcam và học sâu](https://github.com/nguyenmanhcuong-ai/faceRecognition.git)
+Hệ thống nhận diện khuôn mặt thời gian thực tích hợp webcam, hỗ trợ đăng ký, xác thực và quản lý người dùng dựa trên công nghệ học sâu.
+- **Công nghệ:** Python, OpenCV, JavaScript, HTML5/CSS3 (Bootstrap 5), SweetAlert2, Fetch API
+- **Tính năng:** Đăng ký khuôn mặt với 5 góc độ, xác thực danh tính với độ tin cậy, quản lý danh sách người dùng, giao diện trực quan với thông báo thân thiện
+
+### 5. [🖼️ Hệ thống tạo chú thích hình ảnh dùng AI (Image Captioning)](https://github.com/nguyenmanhcuong-ai/image_captioning.git)
 Hệ thống tự động tạo chú thích cho hình ảnh sử dụng mô hình học sâu với kiến trúc Encoder-Decoder kết hợp Attention, triển khai trên Flask và Google Colab.  
 - **Công nghệ:** PyTorch, ResNet50, LSTM, Attention Mechanism, Flask, Ngrok  
 - **Tính năng:** Tạo chú thích tự động từ hình ảnh, giao diện web để tải ảnh và xem kết quả, triển khai trực tuyến qua Colab
   
-### 5. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
+### 6. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
 Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/đăng xuất, thông báo tin tức qua email, điểm danh, đóng học phí, nộp bài, thi trắc nghiệm và hơn thế nữa.
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
