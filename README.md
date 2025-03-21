@@ -114,7 +114,7 @@ Dưới đây là các video liên quan đến lĩnh vực CNTT:
 1. **[CNN - Convolutional Neural Networks in Image Recognition - Part 1](https://www.youtube.com/watch?v=hFJKUkn-TQE)**  
    - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
 2. **[Abstract Data Type (ADT) - Data Structures and Algorithms (Part 1)](https://www.youtube.com/watch?v=G58T5Nh8rtI&t=962s)**  
-   - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
+   - Tập trung vào khái niệm trừu tượng hóa dữ liệu và cách triển khai nó bằng cách sử dụng Giao diện trong Java.
 3. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
    - Internet là gì? Network Edge, Network Core, Performance, ...
 4. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
