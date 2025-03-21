@@ -96,8 +96,13 @@ Hệ thống nhận diện khuôn mặt thời gian thực tích hợp webcam, h
 Hệ thống tự động tạo chú thích cho hình ảnh sử dụng mô hình học sâu với kiến trúc Encoder-Decoder kết hợp Attention, triển khai trên Flask và Google Colab.  
 - **Công nghệ:** PyTorch, ResNet50, LSTM, Attention Mechanism, Flask, Ngrok  
 - **Tính năng:** Tạo chú thích tự động từ hình ảnh, giao diện web để tải ảnh và xem kết quả, triển khai trực tuyến qua Colab
+
+### 7. [📄 Hệ thống trích xuất hóa đơn dùng AI (Invoice Processing System)](https://github.com/nguyenmanhcuong-ai/invoice-processing-system.git)  
+Hệ thống tự động trích xuất thông tin từ hóa đơn sử dụng công nghệ xử lý ảnh và OCR, triển khai trên Flask với giao diện web thân thiện.  
+- **Công nghệ:** Flask, OpenCV, Tesseract OCR, Pillow, HTML/CSS, JavaScript, Bootstrap  
+- **Tính năng:** Trích xuất tự động thông tin từ hóa đơn, tiền xử lý ảnh nâng cao độ chính xác OCR, giao diện web trực quan để tải lên và xem kết quả  
   
-### 6. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
+### 8. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
 Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/đăng xuất, thông báo tin tức qua email, điểm danh, đóng học phí, nộp bài, thi trắc nghiệm và hơn thế nữa.
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
