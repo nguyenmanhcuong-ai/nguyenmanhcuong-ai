@@ -113,11 +113,11 @@ Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/�
 Dưới đây là các video liên quan đến lĩnh vực CNTT:
 1. **[CNN - Convolutional Neural Networks in Image Recognition - Part 1](https://www.youtube.com/watch?v=hFJKUkn-TQE)**  
    - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
-  
-2. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
+2. **[Abstract Data Type (ADT) - Data Structures and Algorithms (Part 1)](https://www.youtube.com/watch?v=G58T5Nh8rtI&t=962s)**  
+   - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
+3. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
    - Internet là gì? Network Edge, Network Core, Performance, ...
-  
-3. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
+4. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
    - Vai trò, tầm quan trọng và phương thức giao tiếp của mạng IPv6.
 
 ## 📫 Liên Hệ
