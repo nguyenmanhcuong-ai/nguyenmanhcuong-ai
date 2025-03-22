@@ -107,6 +107,11 @@ Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/�
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
 
+### 9. [📑 Công cụ Chuyển đổi Định dạng Tệp dùng Flask và Python](https://github.com/nguyenmanhcuong-ai/word2pdf.git)
+Công cụ hỗ trợ chuyển đổi định dạng tệp trực tuyến, cho phép người dùng chuyển đổi giữa các định dạng tài liệu, hình ảnh và văn bản phổ biến một cách nhanh chóng, bảo mật và hoàn toàn cục bộ.
+* **Công nghệ:** Flask, Python, PyMuPDF (fitz), pdf2docx, docx2pdf, python-pptx, PIL, comtypes, Bootstrap, jQuery
+* **Tính năng:** Chuyển đổi đa định dạng: PDF ↔ DOCX, PDF ↔ PPTX, PDF ↔ TXT, ảnh (JPG/PNG) ↔ PDF, Hỗ trợ kéo-thả tệp, hiển thị tiến trình xử lý, Giao diện người dùng thân thiện, hoạt động offline trên localhost, Bảo mật cao với xử lý cục bộ, không gửi dữ liệu lên server  
+
 ## 📝 Bài Viết & Blog
 
 ## 🎥 Video Tutorials
