@@ -102,7 +102,7 @@ Hệ thống tự động trích xuất thông tin từ hóa đơn sử dụng c
 - **Công nghệ:** Flask, OpenCV, Tesseract OCR, Pillow, HTML/CSS, JavaScript, Bootstrap  
 - **Tính năng:** Trích xuất tự động thông tin từ hóa đơn, tiền xử lý ảnh nâng cao độ chính xác OCR, giao diện web trực quan để tải lên và xem kết quả  
   
-### 8. [🎓 Hệ thống quản lý Sinh viên](https://github.com/nguyenmanhcuong-ai/mccheckin.git)
+### 8. [🎓 Hệ thống quản lý Sinh viên](https://mccheckin.edu.vn/elearning-login)
 Quản lý sinh viên với các chức năng toàn diện như: Đăng nhập/đăng xuất, thông báo tin tức qua email, điểm danh, đóng học phí, nộp bài, thi trắc nghiệm và hơn thế nữa.
 - **Công nghệ:** Django, PostgreSQL, Redis, JWT Authentication
 - **Tính năng:** Dashboard quản trị, lịch học/thi, quản lý học phí, thông báo tự động
