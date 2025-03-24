@@ -116,13 +116,15 @@ Công cụ hỗ trợ chuyển đổi định dạng tệp trực tuyến, cho p
 
 ## 🎥 Video Tutorials
 Dưới đây là các video liên quan đến lĩnh vực CNTT:
-1. **[CNN - Convolutional Neural Networks in Image Recognition - Part 1](https://www.youtube.com/watch?v=hFJKUkn-TQE)**  
+1. **[Introduction to OpenCV - Computer Vision](https://youtu.be/gfz1pEAq2rY)**  
+   - Tìm hiểu về thư viện OpenCV trong Computer Vision và một vài ví dụ trong xử lý ảnh.
+2. **[CNN - Convolutional Neural Networks in Image Recognition - Part 1](https://www.youtube.com/watch?v=hFJKUkn-TQE)**  
    - Tìm hiểu về cách thức tiếp nhận ảnh của người và máy cũng như tầm quan trọng của mô hình CNN.
-2. **[Abstract Data Type (ADT) - Data Structures and Algorithms (Part 1)](https://www.youtube.com/watch?v=G58T5Nh8rtI&t=962s)**  
+3. **[Abstract Data Type (ADT) - Data Structures and Algorithms (Part 1)](https://www.youtube.com/watch?v=G58T5Nh8rtI&t=962s)**  
    - Tập trung vào khái niệm trừu tượng hóa dữ liệu và cách triển khai nó bằng cách sử dụng Giao diện trong Java.
-3. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
+4. **[Chapter 1 - Introduction to Computer Networks](https://youtu.be/sYiGdFjnTiY)**  
    - Internet là gì? Network Edge, Network Core, Performance, ...
-4. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
+5. **[Tìm hiểu về IPv6](https://youtu.be/69cTledYx8c)**  
    - Vai trò, tầm quan trọng và phương thức giao tiếp của mạng IPv6.
 
 ## 📫 Liên Hệ
